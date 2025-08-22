@@ -7,6 +7,7 @@ const con = require('./db');
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+console.log('tu');
 
 
 app.listen(3000,()=>{
