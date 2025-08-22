@@ -7,6 +7,16 @@ const con = require('./db');
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+
+
+
+
+
+
+
+
+
+
 console.log('tu');
 console.log('tu');
 console.log('tu');
