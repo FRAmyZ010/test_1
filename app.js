@@ -9,6 +9,19 @@ app.use(express.urlencoded({ extended: true }));
 
 console.log('1234567890-[p;lkjhgfd');
 
+
+
+
+
+
+
+
+
+console.log('tu');
+console.log('tu');
+console.log('tu');
+
+
 app.listen(3000,()=>{
     console.log('Server 🤑 is running on port 3000 ✅');
 })
